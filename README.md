@@ -7,18 +7,13 @@
 
 ---
 
-## 🔧 Tecnologías y Habilidades
+## 🔧 Tecnologías y Herramientas
 
-### Lenguajes y Automatización
-- Python ![Python](https://img.shields.io/badge/Python-90%25-brightgreen)
-- Selenium WebDriver ![Selenium](https://img.shields.io/badge/Selenium-85%25-brightgreen)
-- SQL ![SQL](https://img.shields.io/badge/SQL-80%25-brightgreen)
-
-### QA y Herramientas
-- QA Manual ![QA Manual](https://img.shields.io/badge/QA_Manual-95%25-brightgreen)
-- Pruebas Móviles ![Pruebas Móviles](https://img.shields.io/badge/Pruebas_Móviles-85%25-brightgreen)
-- JIRA ![JIRA](https://img.shields.io/badge/JIRA-80%25-brightgreen)
-- Git & GitHub ![GitHub](https://img.shields.io/badge/GitHub-85%25-brightgreen)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
