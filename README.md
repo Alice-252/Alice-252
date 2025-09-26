@@ -8,10 +8,13 @@ QA Engineer | Pruebas Automatizadas | Python, Selenium, SQL
 ---
 
 ## 🔧 Tecnologías y herramientas
-- **Lenguajes:** Python, SQL
-- **Automatización:** Selenium WebDriver
+- **Lenguajes:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- **Automatización:** ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 - **Pruebas:** QA Manual, QA Automatizado, Pruebas Móviles
 - **Herramientas:** JIRA, APIs, Git, GitHub
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
