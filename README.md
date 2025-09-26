@@ -47,9 +47,3 @@ QA Engineer | Pruebas Automatizadas | Python, Selenium, SQL
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alicia-garza-9705a3386)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ali_azul_12@hotmail.com)
-
----
-
-## 🌱 Actualmente estoy aprendiendo
-- Integración continua (CI/CD) para pruebas automatizadas
-- Pruebas avanzadas de APIs y bases de datos
