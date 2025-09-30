@@ -33,9 +33,6 @@ Proyecto de QA con énfasis en **automatización y validación de bases de datos
 
 ## 📊 Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alice-252&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alice-252&layout=compact&theme=radical)
-
 ¡Me gusta mantener mi perfil activo y en constante aprendizaje!  
 Aquí puedes ver mi actividad reciente y mis contribuciones en proyectos de QA:
 
