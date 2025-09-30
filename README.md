@@ -1,27 +1,27 @@
-# Hola 👋, soy Alicia Garza
+# 👋 Hola, soy Alicia Garza
 
-QA Engineer en formación | Pruebas Automatizadas | Python, Selenium, SQL
+**QA Engineer en formación | Automatización de Pruebas | Python, Selenium, SQL**
 
-💻 Apasionada por la tecnología y la calidad de software, con especial interés en la **automatización de pruebas** y **bases de datos**.  
-📊 Me encanta analizar y probar sistemas, aplicando conceptos como **valores límite** y **clases de equivalencia** para garantizar la excelencia en los proyectos.
+💻 Apasionada por la **tecnología y la calidad de software**, con especial interés en **automatización de pruebas** y **bases de datos**.  
+📊 Me encanta analizar y probar sistemas aplicando **valores límite** y **clases de equivalencia** para garantizar la excelencia en los proyectos.
 
 ---
 
-## 🔧 Tecnologías y herramientas
+## 🔧 Tecnologías y Herramientas
 
-- **Lenguajes:** Python, SQL  
-- **Automatización:** Selenium  
-- **Herramientas:** APIs, Git, GitHub, Jira  
+- **Lenguajes:** `Python`, `SQL`  
+- **Automatización:** `Selenium`  
+- **Herramientas:** `APIs`, `Git`, `GitHub`, `Jira`  
 - **Pruebas:** QA Manual, QA Automatizado, Pruebas Móviles  
 
 ---
 
-## 📂 Proyectos destacados
+## 📂 Proyectos Destacados
 
-### 🚌 Control de Calidad: [Rutas Urbanas](https://github.com/Alice-252/qa-project-Urban-Routes-es)  
+### 🚌 [Control de Calidad: Rutas Urbanas](https://github.com/Alice-252/qa-project-Urban-Routes-es)  
 Proyecto de QA enfocado en **pruebas funcionales y automatizadas** para la aplicación de rutas urbanas.
 
-### 🛒 Control de Calidad: [Urban Grocers App](https://github.com/Alice-252/qa-project-Urban-Grocers-app-es)  
+### 🛒 [Control de Calidad: Urban Grocers App](https://github.com/Alice-252/qa-project-Urban-Grocers-app-es)  
 Proyecto de QA con énfasis en **automatización y validación de bases de datos** para aplicación móvil de supermercado urbano.
 
 > 🔹 **Tip:** Fija estos proyectos en “Pinned” para darles más visibilidad en tu perfil.
@@ -29,17 +29,21 @@ Proyecto de QA con énfasis en **automatización y validación de bases de datos
 ---
 
 ## 📊 Estadísticas de GitHub
+
 - Actividad reciente y commits visibles  
 - Top lenguajes utilizados en mis proyectos  
 
 ---
 
 ## 🌱 Actualmente estoy aprendiendo
+
 - Integración continua (**CI/CD**) para pruebas automatizadas  
 - Pruebas avanzadas de **APIs y bases de datos**  
 
 ---
 
 ## 📫 Contáctame
-- [LinkedIn](https://www.linkedin.com/in/alicia-garza-9705a3386)  
-- Correo electrónico: ali_azul_12@hotmail.com  
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/alicia-garza-9705a3386)  
+- ✉️ ali_azul_12@hotmail.com  
+- 🌐 [GitHub Portfolio](https://github.com/Alice-252)
