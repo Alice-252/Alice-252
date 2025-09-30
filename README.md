@@ -29,8 +29,6 @@ Proyecto de QA enfocado en **pruebas funcionales y automatizadas** para la aplic
 ### 🛒 [Control de Calidad: Urban Grocers App](https://github.com/Alice-252/qa-project-Urban-Grocers-app-es)  
 Proyecto de QA con énfasis en **automatización y validación de bases de datos** para aplicación móvil de supermercado urbano.  
 
-> 🔹 **Tip:** Fija estos proyectos en “Pinned” para darles máxima visibilidad.
-
 ---
 
 ## 📊 Estadísticas de GitHub
