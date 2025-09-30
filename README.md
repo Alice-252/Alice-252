@@ -1,7 +1,8 @@
 # 👋 Hola, soy Alicia Garza
 
 **QA Engineer en formación | Automatización de Pruebas | Python, Selenium, SQL**
- Enfocada en aprender y crecer en el mundo del **QA y la automatización de pruebas**, con interés en mejorar la calidad de software mediante **pruebas funcionales, automatizadas y validación de bases de datos**.
+
+Enfocada en aprender y crecer en el mundo del **QA y la automatización de pruebas**, con interés en mejorar la calidad de software mediante **pruebas funcionales, automatizadas y validación de bases de datos**.
 
 💻 Apasionada por la **tecnología y la calidad de software**, con interés en **automatización de pruebas** y **bases de datos**.  
 📊 Me encanta analizar y probar sistemas aplicando **valores límite** y **clases de equivalencia** para garantizar la excelencia en los proyectos.
