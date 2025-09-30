@@ -16,20 +16,21 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-AUTO-blue?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ---
 
 ## 📂 Proyectos Destacados
 
 ### 🚌 [Control de Calidad: Rutas Urbanas](https://github.com/Alice-252/qa-project-Urban-Routes-es)  
-Proyecto de QA enfocado en **pruebas funcionales y automatizadas** para la aplicación de rutas urbanas.  
+QA funcional y automatizado para la aplicación de rutas urbanas.  
 ![QA Automation GIF](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
 
 ### 🛒 [Control de Calidad: Urban Grocers App](https://github.com/Alice-252/qa-project-Urban-Grocers-app-es)  
-Proyecto de QA con énfasis en **automatización y validación de bases de datos** para aplicación móvil de supermercado urbano.  
+Automatización y validación de bases de datos en aplicación de supermercado urbano.  
 ![Database Testing GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
-> 🔹 **Tip:** Fija estos proyectos en “Pinned” para darles máxima visibilidad.
+> 🔹 **Tip:** Fija estos proyectos en “Pinned” para mayor visibilidad.
 
 ---
 
@@ -40,11 +41,15 @@ Proyecto de QA con énfasis en **automatización y validación de bases de datos
 
 ---
 
-## 🌱 Actualmente estoy aprendiendo
+## 🌱 Timeline de Aprendizaje QA
 
-- Integración continua (**CI/CD**) para pruebas automatizadas  
-- Pruebas avanzadas de **APIs y bases de datos**  
-- Frameworks de automatización y reporting avanzado
+| Año | Hito |
+|-----|------|
+| 2024 | Inicio de formación en QA, fundamentos de pruebas manuales |
+| 2025 Q1 | Primeros proyectos con Selenium y Python |
+| 2025 Q2 | Automatización de pruebas y validación de bases de datos |
+| 2025 Q3 | Dominio de valores límite, clases de equivalencia y reportes de test |
+| 2025 Q4 | Preparación de portafolio profesional y LinkedIn de QA |
 
 ---
 
@@ -52,8 +57,9 @@ Proyecto de QA con énfasis en **automatización y validación de bases de datos
 
 - Desarrollo de **tests automatizados** con Selenium y Python  
 - Experiencia en **validación de bases de datos y pruebas de APIs**  
-- Aplicación de **valores límite y clases de equivalencia** en QA  
-- Generación de **Test Reports profesionales** para LinkedIn  
+- Aplicación de **valores límite y clases de equivalencia**  
+- Generación de **Test Reports profesionales** listos para LinkedIn  
+- Participación en **proyectos completos de QA** (Rutas Urbanas y Urban Grocers App)
 
 ---
 
@@ -62,3 +68,4 @@ Proyecto de QA con énfasis en **automatización y validación de bases de datos
 - 🔗 [LinkedIn](https://www.linkedin.com/in/alicia-garza-9705a3386)  
 - ✉️ ali_azul_12@hotmail.com  
 - 🌐 [GitHub Portfolio](https://github.com/Alice-252)
+
